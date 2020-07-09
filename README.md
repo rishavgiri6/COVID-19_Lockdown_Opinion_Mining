@@ -23,8 +23,8 @@ Additional keywords and phrases: Covid-19, Computational Linguistics, Data Visua
                                               
   
 
-       INDEX
-                                                                                       Pages
+       INDEX                                                                           Pages
+                                                                                       
 
 1. General Description/ Abstract                                                        3
 
