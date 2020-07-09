@@ -1,5 +1,6 @@
 ﻿![alt text](https://harfordcountyhealth.com/wp-content/uploads/2020/01/home-banner.jpg "COVID-19 Banner")
 # IBM Hack Challenge
+# Team Curiosity-Captain -Rishav Giri
 ###  In this project, we utilized web scraping techniques to collect data from multi-platforms, leveraged NLP techniques to process the text data, analyzed the data by sentiment analysis and topic modeling, and created Tableau dashboard to present the results. 
 
 ## Motivation
