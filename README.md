@@ -1,6 +1,6 @@
 ﻿![alt text](https://harfordcountyhealth.com/wp-content/uploads/2020/01/home-banner.jpg "COVID-19 Banner")
-# IBM Hack Challenge
-# Team Curiosity-Captain -Rishav Giri
+# IBM Call For Code 2020- Covid Track
+# Team Curiosity-Rishav Giri
 ###  In this project, we utilized web scraping techniques to collect data from multi-platforms, leveraged NLP techniques to process the text data, analyzed the data by sentiment analysis and topic modeling, and created Tableau dashboard to present the results. 
 
 ## Motivation
@@ -162,4 +162,4 @@ In this project, we analyzed the sentiments of COVID-19-related tweets in severa
 To fight the coronavirus not only needs the guidance from the government but also a positive attitude from the public. Our analysis provides a potential approach to reveal the public’s sentiment status and help institutions respond timely to it.
 
 ## Acknowledge
-We want to sincerely acknowledge the efforts of our mentor in this program.
+We want to sincerely acknowledge IBM for providing the platform to demonstrate our solution.
